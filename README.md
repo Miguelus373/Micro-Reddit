@@ -55,9 +55,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-​- This project was part of Microverse's curriculum in Ruby learning program.
-- Special thanks to John Hopkins University for keeping such an amazing compilation of statistics up to date and making it available to us
+- This project was part of Microverse's curriculum in Ruby on Rails learning program.
+- We followed the Rails tutorial of [The Odin Project](https://theodinproject.com/).
 
 ## 📝 License
 
-​This project has MIT license.
+This project has MIT license.
